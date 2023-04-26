@@ -1,0 +1,88 @@
+.container{
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+}
+.backround{
+    
+    background-image:url(number.jpg);
+    height: 600px;
+}
+.logo{
+    top: 0px;
+left: 0px;
+width: 30px;
+height: 30px;
+opacity: 1;
+background-color: black;
+border-radius: 20px;
+margin-left: 30px;
+}
+li{
+    list-style: none;
+}
+nav{
+    margin-left:600px;
+}
+.navigation2{
+    margin-left: 200px;
+    margin-top: -19px;
+}
+.navigation3{
+    margin-left:300px ;
+    margin-top:-19px ;
+}
+.navigation4{
+    margin-left:400px ;
+    margin-top: -19px;
+}
+.navigation1{
+    margin-left: 100px;
+    margin-top: -17px;
+}
+h1{
+    margin-left: 100px;
+    margin-top: 100px;
+}
+p{
+    margin-left: 100px;
+    width: 200px;
+    margin-top: 50px;
+}
+h5{
+    width: 300px;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.width{
+    margin-left: 100px;
+    width:170px;
+    height: 35px;
+    background-color: rgb(245, 95, 2);
+    color: white;
+}
+.nous{
+    margin-left: 50px;
+    padding-top: 10px;
+}
+.nous::before{
+    content: "";
+    display: inline-block;
+    width: 2px;
+    height: 15px;
+    background-color: rgb(248, 248, 249);
+}
+.img{
+    background-color: rgb(10, 10, 234);
+    width: 15px;
+    margin-left: 290px;
+    margin-top: -25px;
+}
+.href{
+    background-color: blue;
+    width:20px ;
+    margin-left: 320px;
+    margin-top: -20px;
+}
+
+
